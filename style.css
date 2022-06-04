@@ -1,0 +1,45 @@
+body{
+    background-color: #2c3a50;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    
+}
+
+#container{
+    color: #d7dfe4;
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}   
+.txt{
+    font-size:40px;
+    font-weight: bold;
+}
+#btn-container{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    padding:7px 25px;
+    margin:0px 10px;
+    font-size:15px;
+    font-weight: bold;
+    cursor:pointer;
+    color:white;
+    border:0px;
+
+}
+#start{
+    background-color: #1abc9c;
+
+}
+#stop{
+    background-color: #3498db;
+}
+#reset{
+    background-color: #e74c3c;
+
+}
