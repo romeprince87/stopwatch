@@ -43,3 +43,13 @@ body{
     background-color: #e74c3c;
 
 }
+@media screen and (max-width:700px){
+    .digit{
+        font-size: 70px;
+        font-weight: bold;
+    }   
+    .txt{
+        font-size:25px;
+        font-weight: bold;
+    }
+}
